@@ -75,6 +75,21 @@ const perguntas = [
             
         ]
     },
+    {
+        enunciado: "Após terminar o trabalho você decide responder um quiz sobre Naruto e a primeira pergunta que aparece é essa. Sobre o protagonista Naruto Uzumaki, qual das seguintes afirmações é verdadeira? ",
+        alternativas: [
+            {
+                texto: "O Quarto Hokage selou a Raposa de Nove Caudas em Naruto no dia do seu nascimento",
+                afirmacao:"afirmacao"
+            },
+            {
+                texto: "Naruto aprendeu o Rasengan diretamente com seu pai durante a infância.",
+                afirmacao:"afirmacao"
+            }
+            
+            
+        ]
+    },
 ];
 
 let atual = 0; 
